@@ -1,2 +1,2 @@
 # Surveillance
-Hello World
+College Park Data Justice Group Webzine Project
