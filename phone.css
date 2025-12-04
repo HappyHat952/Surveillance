@@ -41,7 +41,7 @@
     border: 3px white solid;
     border-radius: 10px;
     background-color:green;
-    background-size:contain
+    background-size:cover
 }
 
 .home-button {
