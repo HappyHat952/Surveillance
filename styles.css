@@ -6,6 +6,7 @@ h1 {
 }
 body{
     background-color: gray;
+    cursor: url('img/cursorTest.png'), auto;
 }
 
 p, a {
